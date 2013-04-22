@@ -1,0 +1,9 @@
+<?php
+	define( 'HOSTNAME',			'' );
+	define( 'PAGE_TITLE',		'' );
+	define( 'DESCRIPTION',		'Hello.' );
+	define( 'BACKGROUND_IMG',	'' );
+
+	define( 'SHOW_SYSDATE',		true );
+	define( 'SHOW_UPTIME',		true );
+?>

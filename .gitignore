@@ -1,0 +1,6 @@
+*
+!.gitignore
+!index.php
+!config.php.sample
+!/stylesheets
+!/images
